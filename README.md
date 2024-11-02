@@ -12,7 +12,7 @@ The first row is the input grayscale image, second row is the output color image
 ![image](https://github.com/user-attachments/assets/d7942a00-3a12-48a4-af3f-3e1257ccccfd)
 
 
-The model has a basic understanding of common objects and environments, such as skies and trees, and can colorize them in a somewhat realistic manner.
+The model has a basic understanding of common objects and environments, and can colorize them in a somewhat realistic manner.
 
 However, the output is often far from appealing, with the model struggling to assign appropriate colors to rare or less-common objects(Can see all different outputs in google colab). 
 
