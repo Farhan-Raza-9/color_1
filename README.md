@@ -3,7 +3,11 @@ This implementation demonstrates image colorization using Conditional Generative
 RESULTS:
 The first row is the input grayscale image, second row is the output color image of the model and the third row is actual color image(or ground truth).  
 ![image](https://github.com/user-attachments/assets/12dea5bf-1ce3-4383-a834-093db7c0af74)
+
+
 ![image](https://github.com/user-attachments/assets/f46369b8-418e-42c4-ad47-1b5ac85df8f7)
+
+
 ![image](https://github.com/user-attachments/assets/d7942a00-3a12-48a4-af3f-3e1257ccccfd)
 
 
